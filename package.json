@@ -1,0 +1,25 @@
+{
+  "name": "SMSVote",
+  "description": "Send SMS voting options using Firebase and Twilio",
+  "author": "Pradnya W ",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pradnyaw25/smsvoting.git"
+  },
+  "dependencies": {
+    "express": "4.8.x",
+    "body-parser": "1.8.x",
+    "cron": "1.0.x",
+    "twilio": "1.2.x",
+    "firebase": "1.0.x"
+  },
+  "keywords": [
+    "twilio",
+    "cron",
+    "scheduling",
+    "sms"
+  ],
+  "engines": {
+    "node": ">= 0.8"
+  }
+}
